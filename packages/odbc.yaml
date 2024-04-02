@@ -33,5 +33,6 @@ versions:
   - "pkg"
   ubuntu2204:
   - "unixodbc-dev"
+  - "odbcinst"
   - "libsqliteodbc"
 ---
