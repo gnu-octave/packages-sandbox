@@ -16,7 +16,7 @@ links:
   url: "https://github.com/gnu-octave/octave-odbc/"
 - icon: "fas fa-book"
   label: "package documentation"
-  url: "https://gnu-octave.github.io/octave-odbc/"
+  url: "https://gnu-octave.github.io/octave-odbc/functions/"
 - icon: "fas fa-bug"
   label: "report a problem"
   url: "https://github.com/gnu-octave/octave-odbc/issues"
