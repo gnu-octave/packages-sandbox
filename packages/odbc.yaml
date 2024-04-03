@@ -27,7 +27,7 @@ versions:
 - id: "0.0.2"
   date: "2024-04-03"
   sha256: "10be713558916b03325a87eab7b4064d8a269541b2b7575610f392d891740ff8"
-  url: "https://github.com/gnu-octave/octave-odbc/releases/download/v0.0.12/octave-odbc-0.0.2.tar.gz"
+  url: "https://github.com/gnu-octave/octave-odbc/releases/download/v0.0.2/octave-odbc-0.0.2.tar.gz"
   depends:
   - "octave (>= 6.0.0)"
   - "pkg"
